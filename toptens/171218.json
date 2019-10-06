@@ -1,0 +1,55 @@
+{
+  "title": "17.12.18",
+  "recs": [
+    {
+      "title": "Microsoft Edge: Making the web better through more open source collaboration",
+      "thumbnail": "1.jpg",
+      "url": "https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/"
+    },
+    {
+      "title": "Overreacted - Dan Abramov's new personal blog",
+      "thumbnail": "2.png",
+      "url": "https://overreacted.io/"
+    },
+    {
+      "title": "Pure CSS By Diana Smith",
+      "thumbnail": "3.png",
+      "url": "http://diana-adrianne.com/purecss-pink/"
+    },
+    {
+      "title": "This year in JavaScript: 2018 in review and npm’s predictions for 2019",
+      "thumbnail": "4.png",
+      "url": "https://blog.npmjs.org/post/180868064080/this-year-in-javascript-2018-in-review-and-npms"
+    },
+    {
+      "title": "IntelliCode for TypeScript/JavaScript",
+      "thumbnail": "5.png",
+      "url": "https://blogs.msdn.microsoft.com/typescript/2018/12/05/intellicode-for-typescript-javascript/"
+    },
+    {
+      "title": "Building a Simple Virtual DOM from Scratch",
+      "thumbnail": "6.png",
+      "url": "https://dev.to/ycmjason/building-a-simple-virtual-dom-from-scratch-3d05"
+    },
+    {
+      "title": "CSS-in-JS or CSS-and-JS",
+      "thumbnail": "7.png",
+      "url": "https://johnpolacek.github.io/css-in-js-or-css-and-js/"
+    },
+    {
+      "title": "DevTools tips — day 1: the console dollars",
+      "thumbnail": "8.png",
+      "url": "https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c"
+    },
+    {
+      "title": "Super Mario in #js1k",
+      "thumbnail": "9.png",
+      "url": "https://twitter.com/MaximeEuziere/status/1068903541853556737"
+    },
+    {
+      "title": "The Last Experience",
+      "thumbnail": "10.png",
+      "url": "https://codepen.io/ge1doot/pen/LkdOwj"
+    }
+  ]
+}

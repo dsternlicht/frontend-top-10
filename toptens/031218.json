@@ -1,0 +1,55 @@
+{
+  "title": "03.12.18",
+  "recs": [
+    {
+      "title": "State of JavaScript 2018",
+      "thumbnail": "6.png",
+      "url": "https://2018.stateofjs.com/"
+    },
+    {
+      "title": "Front-end JavaScript Interviews in 2018–19",
+      "thumbnail": "1.png",
+      "url": "https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514"
+    },
+    {
+      "title": "NES.css",
+      "thumbnail": "2.png",
+      "url": "https://bcrikko.github.io/NES.css/"
+    },
+    {
+      "title": "VisBug - Open source browser design tools",
+      "thumbnail": "3.png",
+      "url": "https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc"
+    },
+    {
+      "title": "Malicious code found in npm package event-stream",
+      "thumbnail": "4.png",
+      "url": "https://snyk.io/blog/malicious-code-found-in-npm-package-event-stream"
+    },
+    {
+      "title": "Flexbox — The Animated Tutorial",
+      "thumbnail": "5.png",
+      "url": "https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2"
+    },
+    {
+      "title": "A free guide to &lt;head&gt; elements",
+      "thumbnail": "7.png",
+      "url": "https://gethead.info/"
+    },
+    {
+      "title": "Hacking CSS writing mode",
+      "thumbnail": "8.png",
+      "url": "http://www.tipue.com/blog/css-writing-mode/"
+    },
+    {
+      "title": "Five years of PostCSS: State of the Union",
+      "thumbnail": "9.png",
+      "url": "https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union"
+    },
+    {
+      "title": "React 16.x Roadmap",
+      "thumbnail": "10.png",
+      "url": "https://reactjs.org/blog/2018/11/27/react-16-roadmap.html"
+    }
+  ]
+}

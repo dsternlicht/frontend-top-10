@@ -1,0 +1,55 @@
+{
+  "title": "01.07.19",
+  "recs": [
+    {
+      "title": "8 DOM features you didn’t know existed",
+      "thumbnail": "1.png",
+      "url": "https://blog.logrocket.com/8-dom-features-you-didnt-know-existed-ec2a0a28fd89/"
+    },
+    {
+      "title": "The Cost of JavaScript in 2019",
+      "thumbnail": "2.png",
+      "url": "https://v8.dev/blog/cost-of-javascript-2019"
+    },
+    {
+      "title": "Just ____ The task library that just works",
+      "thumbnail": "3.png",
+      "url": "https://microsoft.github.io/just/"
+    },
+    {
+      "title": "React Dynamic Charts",
+      "thumbnail": "4.png",
+      "url": "https://dsternlicht.github.io/react-dynamic-charts/"
+    },
+    {
+      "title": "CLI for creating reusable, modern React libraries",
+      "thumbnail": "5.png",
+      "url": "https://github.com/transitive-bullshit/create-react-library"
+    },
+    {
+      "title": "Optimizing Google Fonts Performance",
+      "thumbnail": "6.png",
+      "url": "https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/"
+    },
+    {
+      "title": "The State of Angular in 2019",
+      "thumbnail": "7.png",
+      "url": "https://blog.bitsrc.io/the-state-of-angular-in-2019-b5fb7783a1c6"
+    },
+    {
+      "title": "A Look at Object.fromEntries",
+      "thumbnail": "8.png",
+      "url": "https://v8.dev/features/object-fromentries"
+    },
+    {
+      "title": "Implement a Brain Sensor Framework with react-beautiful-dnd",
+      "thumbnail": "9.png",
+      "url": "https://twitter.com/devdevcharlie/status/1144456643909828609"
+    },
+    {
+      "title": "Flappy Bird Game with Browser Windows",
+      "thumbnail": "10.png",
+      "url": "https://github.com/charliegerard/flappy-windows"
+    }
+  ]
+}

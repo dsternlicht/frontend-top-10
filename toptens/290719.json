@@ -1,0 +1,55 @@
+{
+  "title": "29.07.19",
+  "recs": [
+    {
+      "title": "The Simplest Way to Load CSS Asynchronously",
+      "thumbnail": "1.png",
+      "url": "https://www.filamentgroup.com/lab/load-css-simpler/"
+    },
+    {
+      "title": "What's New In DevTools (Chrome 77)",
+      "thumbnail": "2.png",
+      "url": "https://developers.google.com/web/updates/2019/07/devtools"
+    },
+    {
+      "title": "Algebraic Effects for the Rest of Us",
+      "thumbnail": "3.png",
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/"
+    },
+    {
+      "title": "Creating JavaScript: The Story of JavaScript's Birth",
+      "thumbnail": "4.png",
+      "url": "https://www.redhat.com/en/command-line-heroes/season-3/creating-javascript"
+    },
+    {
+      "title": "Everything You Need To Know About CSS Margins",
+      "thumbnail": "5.png",
+      "url": "https://www.smashingmagazine.com/2019/07/margins-in-css/"
+    },
+    {
+      "title": "Three Predictions From the State of CSS 2019 Survey",
+      "thumbnail": "6.png",
+      "url": "https://css-tricks.com/three-predictions-from-the-state-of-css-2019-survey/"
+    },
+    {
+      "title": "When a rewrite isn’t: rebuilding Slack on the desktop",
+      "thumbnail": "7.png",
+      "url": "https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4"
+    },
+    {
+      "title": "Index fun",
+      "thumbnail": "8.png",
+      "url": "https://psuter.net/2019/07/07/z-index"
+    },
+    {
+      "title": "Dissecting A Dweet: Mini Black Hole",
+      "thumbnail": "9.png",
+      "url": "http://frankforce.com/?p=6378"
+    },
+    {
+      "title": "Design History of Adobe Photoshop",
+      "thumbnail": "10.png",
+      "url": "https://www.versionmuseum.com/history-of/adobe-photoshop"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "11.02.19",
+  "recs": [
+    {
+      "title": "React v16.8: The One With Hooks",
+      "thumbnail": "1.png",
+      "url": "https://reactjs.org/blog/2019/02/06/react-v16.8.0.html"
+    },
+    {
+      "title": "React as a UI Runtime",
+      "thumbnail": "2.png",
+      "url": "https://overreacted.io/react-as-a-ui-runtime/"
+    },
+    {
+      "title": "Netflix JavaScript Talks - Making Bandersnatch",
+      "thumbnail": "3.png",
+      "url": "https://www.youtube.com/watch?v=WLqc0EX8Bmg"
+    },
+    {
+      "title": "Google Play Store now open for Progressive Web Apps 😱",
+      "thumbnail": "4.png",
+      "url": "https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc"
+    },
+    {
+      "title": "Future JavaScript: what is still missing?",
+      "thumbnail": "5.png",
+      "url": "http://2ality.com/2019/01/future-js.html"
+    },
+    {
+      "title": "Node.js: How even quick async functions can block the Event-Loop, starve I/O",
+      "thumbnail": "6.png",
+      "url": "https://medium.com/@michael.gokhman/nodejs-how-even-quick-async-functions-can-block-the-event-loop-starve-io-8c416d76daa3?fbclid=IwAR0Ktr7OMjJS-D8bLTYBOuSMgdhwTiv2_aDCYrlC-p6uAkrLMbBiYBs63bs"
+    },
+    {
+      "title": "CSS Grid: Excel Spreadsheet",
+      "thumbnail": "7.png",
+      "url": "https://codepen.io/oliviale/pen/rPjgmB"
+    },
+    {
+      "title": "The Lounge - Modern, responsive, cross-platform, self-hosted web IRC client",
+      "thumbnail": "8.png",
+      "url": "https://github.com/thelounge/thelounge"
+    },
+    {
+      "title": "Microsoft to Drop Internet Explorer 10 Support in 2020",
+      "thumbnail": "9.png",
+      "url": "https://www.theregister.co.uk/2019/01/29/microsoft_internet_explorer_10/"
+    },
+    {
+      "title": "The Nostalgic WordArt We Know, Just in React",
+      "thumbnail": "10.png",
+      "url": "https://github.com/yershalom/react-wordart"
+    }
+  ]
+}

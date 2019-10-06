@@ -1,0 +1,55 @@
+{
+  "title": "15.07.19",
+  "recs": [
+    {
+      "title": "Writing Tests For CSS Is Possible! Don’t Believe The Rumors.",
+      "thumbnail": "1.png",
+      "url": "https://www.youtube.com/watch?v=Dl_XMd_1F6E"
+    },
+    {
+      "title": "Hermes - JavaScript engine optimized for React Native",
+      "thumbnail": "2.png",
+      "url": "https://hermesengine.dev/"
+    },
+    {
+      "title": "Improve Your JavaScript Knowledge By Reading Source Code",
+      "thumbnail": "3.png",
+      "url": "https://www.smashingmagazine.com/2019/07/javascript-knowledge-reading-source-code/"
+    },
+    {
+      "title": "Web Accessibility Guidebook for Developers",
+      "thumbnail": "4.png",
+      "url": "https://www.telerik.com/blogs/web-accessibility-guidebook-for-developers"
+    },
+    {
+      "title": "Creating Pixel Art with CSS",
+      "thumbnail": "5.png",
+      "url": "https://dev.to/jnschrag/creating-pixel-art-with-css-3451"
+    },
+    {
+      "title": "CSS Architecture for Multiple Websites",
+      "thumbnail": "6.png",
+      "url": "https://medium.com/@elad/css-architecture-for-multiple-websites-ad696c9d334"
+    },
+    {
+      "title": "How Google Pagespeed works: Improve Your Score and Search Engine Ranking",
+      "thumbnail": "7.png",
+      "url": "https://calibreapp.com/blog/how-pagespeed-works/"
+    },
+    {
+      "title": "Handling Array Duplicates Can Be Tricky",
+      "thumbnail": "8.png",
+      "url": "https://devinduct.com/blogpost/17/handling-array-duplicates-can-be-tricky"
+    },
+    {
+      "title": "Popup Trombone",
+      "thumbnail": "9.png",
+      "url": "https://matthewrayfield.com/goodies/popup-trombone/"
+    },
+    {
+      "title": "User Inyerface - A Bagaar Frustration",
+      "thumbnail": "10.png",
+      "url": "https://userinyerface.com/"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "09.09.19",
+  "recs": [
+    {
+      "title": "Optional chaining",
+      "thumbnail": "1.png",
+      "url": "https://v8.dev/features/optional-chaining"
+    },
+    {
+      "title": "nodegui - build cross-platform native desktop applications with JavaScript and CSS like styling",
+      "thumbnail": "2.png",
+      "url": "https://github.com/nodegui/nodegui"
+    },
+    {
+      "title": "JavaScript Iterators and Generators (3 Part Series)",
+      "thumbnail": "3.png",
+      "url": "https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-iterators-141d"
+    },
+    {
+      "title": "void in JavaScript and TypeScript",
+      "thumbnail": "4.png",
+      "url": "https://fettblog.eu/void-in-javascript-and-typescript/"
+    },
+    {
+      "title": "Popular JavaScript library starts showing ads in its terminal",
+      "thumbnail": "5.png",
+      "url": "https://www.zdnet.com/article/popular-javascript-library-starts-showing-ads-in-its-terminal/"
+    },
+    {
+      "title": "How JavaScript Grew Up and Became a Real Language",
+      "thumbnail": "6.png",
+      "url": "https://medium.com/young-coder/how-javascript-grew-up-and-became-a-real-language-17a0b948b77f"
+    },
+    {
+      "title": "Simplify your JavaScript – Use .some() and .find()",
+      "thumbnail": "7.png",
+      "url": "https://medium.com/poka-techblog/simplify-your-javascript-use-some-and-find-f9fb9826ddfd"
+    },
+    {
+      "title": "How to Dynamically Change the Colors of Product Images using CSS Blend Mode and SVG",
+      "thumbnail": "8.png",
+      "url": "https://tympanus.net/codrops/2019/09/03/how-to-dynamically-change-the-colors-of-product-images-using-css-blend-mode-and-svg/"
+    },
+    {
+      "title": "Play Street Fighter with body movements using Arduino and Tensorflow.js",
+      "thumbnail": "9.png",
+      "url": "https://twitter.com/devdevcharlie/status/1168142670910218241"
+    },
+    {
+      "title": "CSS Duotone Generator",
+      "thumbnail": "10.png",
+      "url": "https://cssduotone.com/"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "03.06.19",
+  "recs": [
+    {
+      "title": "Announcing Stencil One: Beta",
+      "thumbnail": "1.png",
+      "url": "https://blog.ionicframework.com/announcing-stencil-one-beta/"
+    },
+    {
+      "title": "Normalize CSS or CSS Reset?",
+      "thumbnail": "2.png",
+      "url": "https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e"
+    },
+    {
+      "title": "The Evolution Of Webdesign",
+      "thumbnail": "3.png",
+      "url": "http://fabianburghardt.de/webolution/"
+    },
+    {
+      "title": "You can now officially install Microsoft Edge on macOS",
+      "thumbnail": "4.png",
+      "url": "https://www.microsoftedgeinsider.com/en-us/"
+    },
+    {
+      "title": "Angular 8 is Out!",
+      "thumbnail": "5.png",
+      "url": "https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27"
+    },
+    {
+      "title": "A Denial of Service vulnerability discovered in the Axios JavaScript package",
+      "thumbnail": "6.png",
+      "url": "https://snyk.io/blog/a-denial-of-service-vulnerability-discovered-in-the-axios-javascript-package-affecting-all-versions-of-the-popular-http-client/"
+    },
+    {
+      "title": "Fast and easy way to test your responsive design in multiple viewports",
+      "thumbnail": "7.png",
+      "url": "https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp/"
+    },
+    {
+      "title": "Implementing a Scroll Based Animation with JavaScript",
+      "thumbnail": "8.png",
+      "url": "https://scotch.io/tutorials/implementing-a-scroll-based-animation-with-javascript"
+    },
+    {
+      "title": "CSS Grid Generator",
+      "thumbnail": "9.png",
+      "url": "https://cssgrid-generator.netlify.com/"
+    },
+    {
+      "title": "A Library that does nothing in or for your project",
+      "thumbnail": "10.png",
+      "url": "https://github.com/silicakes/nada-js"
+    }
+  ]
+}

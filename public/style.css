@@ -1,0 +1,240 @@
+html {
+  width: 100%;
+  background-color: #FBAB7E;
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  min-height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  padding: 80px 40px;
+}
+
+header .top {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+}
+
+header img {
+  max-height: 120px;
+  margin-right: 10px;
+  margin-top: -10px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 72px;
+  line-height: 1.2em;
+  font-weight: 800;
+  color: #fff;
+  text-shadow:     0 1px 0 hsl(34, 67%,80%),
+	                 0 2px 0 hsl(34, 67%, 68%),
+	                 0 3px 0 hsl(34, 67%,70%),
+	                 0 4px 0 hsl(34, 67%,66%),
+	                 0 5px 0 hsl(34, 67%,64%),
+	                 0 6px 0 hsl(34, 67%,62%),
+	                 0 7px 0 hsl(34, 67%,61%),
+	                 0 8px 0 hsl(34, 67%,60%),
+	
+	                 0 0 5px rgba(0,0,0,.05),
+	                0 1px 3px rgba(0,0,0,.2),
+	                0 3px 5px rgba(0,0,0,.2),
+	               0 5px 10px rgba(0,0,0,.2),
+	              0 10px 10px rgba(0,0,0,.2),
+	              0 20px 20px rgba(0,0,0,.3);
+}
+
+header h3 {
+  margin: 0;
+  color: rgba(0,0,0,0.5);
+  text-align: center;
+  font-size: 36px;
+  letter-spacing: -0.035em;
+  line-height: 1.2em;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.homepage {
+  display: block;
+  text-align: center;
+}
+
+.homepage h4 {
+  font-size: 28px;
+  font-weight: 200;
+}
+
+.homepage p {
+  margin-bottom: 10px;
+}
+
+.homepage a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.homepage a:hover {
+  text-decoration: underline;
+}
+
+main div {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  flex-wrap: wrap;
+}
+
+main article {
+  text-align: center;
+  max-width: 170px;
+  margin: 0 20px 20px;
+  position: relative;
+}
+
+main article a {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+main figure {
+  width: 170px;
+  height: 170px;
+  background: no-repeat center center;
+  background-size: cover;
+  margin: 0 0 10px;
+  padding: 0;
+  box-shadow: 2px 2px 5px rgba(0,0,0,.2);
+  position: relative;
+  border-radius: 2px;
+}
+
+main article figcaption {
+  text-align: center;
+  line-height: 1.5em;
+  font-size: 16px;
+}
+
+main article .glow-wrap {
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+
+main article .glow {
+  display: block;
+  position:absolute;
+  width: 40%;
+  height: 200%;
+  background: rgba(255,255,255,.2);
+  top: 0;
+  filter: blur(5px);
+  transform: rotate(45deg) translate(-450%, 0);
+  transition: all .5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+main article:hover .glow {
+  transform: rotate(45deg) translate(450%, 0);
+  transition: all 1s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+main article:hover figcaption {
+  text-decoration: underline;
+}
+
+footer {
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer a, .history {
+  color: blue;
+}
+
+footer a:hover, .history:hover {
+  color: #000;
+}
+
+.history {
+  margin: 10px 0 0;
+  display: inline-block;
+}
+
+@media screen and (max-width: 800px) {
+  .history {
+    margin: 10px;
+  }
+  
+  header .top {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  header h1 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  header img {
+    max-height: 200px;
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  header img {
+    max-height: 150px;
+  }
+
+  header h1 {
+    font-size: 42px;
+  }
+
+  header h3 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  main div {
+    flex-direction: column;
+  }
+
+  main article {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    max-width: 100%;
+  }
+
+  main figure {
+    width: 80px;
+    height: 80px;
+  }
+
+  main article figcaption {
+    text-align: left;
+    padding-left: 15px;
+    font-size: 18px;
+    flex: 1;
+    margin-top: -6px;
+  }
+}

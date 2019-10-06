@@ -1,0 +1,55 @@
+{
+  "title": "25.02.19",
+  "recs": [
+    {
+      "title": "Cleave.js - Format your <input/> content when you are typing",
+      "thumbnail": "1.png",
+      "url": "https://nosir.github.io/cleave.js/"
+    },
+    {
+      "title": "Make your Google Fonts render faster",
+      "thumbnail": "2.png",
+      "url": "https://googlefonts.3perf.com/"
+    },
+    {
+      "title": "NSFW JS - Client-side indecent content checking for the soul",
+      "thumbnail": "3.png",
+      "url": "https://shift.infinite.red/avoid-nightmares-nsfw-js-ab7b176978b1"
+    },
+    {
+      "title": "Bootstrap 5 will remove jQuery as a dependency",
+      "thumbnail": "5.png",
+      "url": "https://github.com/twbs/bootstrap/pull/23586"
+    },
+    {
+      "title": "CSS Scroll Snap — How It Really Works",
+      "thumbnail": "6.png",
+      "url": "https://blog.usejournal.com/css-scroll-snap-how-it-really-works-94d99db80bc9"
+    },
+    {
+      "title": "mailtolink.me: Mailto Link Generator",
+      "thumbnail": "7.png",
+      "url": "https://mailtolink.me/"
+    },
+    {
+      "title": "Grid Reveal Effects with Anime.js",
+      "thumbnail": "8.png",
+      "url": "https://tympanus.net/codrops/2019/02/13/grid-reveal-effects-with-anime-js/"
+    },
+    {
+      "title": "Your CSS Layout Toolkit for 2019 - Rachel Andrew",
+      "thumbnail": "9.png",
+      "url": "https://www.youtube.com/watch?v=5XsZnCwbgwA"
+    },
+    {
+      "title": "Animating URLs with Javascript and Emojis",
+      "thumbnail": "10.png",
+      "url": "http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/"
+    },
+    {
+      "title": "CSS FPS - CSS powered 3D environment",
+      "thumbnail": "4.png",
+      "url": "https://keithclark.co.uk/labs/css-fps/"
+    }
+  ]
+}

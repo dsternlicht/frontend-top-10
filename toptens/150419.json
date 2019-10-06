@@ -1,0 +1,55 @@
+{
+  "title": "15.04.19",
+  "recs": [
+    {
+      "title": "CSS Houdini Could Change the Way We Write and Manage CSS",
+      "thumbnail": "1.png",
+      "url": "https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/"
+    },
+    {
+      "title": "Web Components will replace your frontend framework",
+      "thumbnail": "2.png",
+      "url": "https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework"
+    },
+    {
+      "title": "How We Used WebAssembly To Speed Up Our Web App By 20X",
+      "thumbnail": "3.png",
+      "url": "https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/"
+    },
+    {
+      "title": "Native image lazy-loading for the web!",
+      "thumbnail": "4.png",
+      "url": "https://addyosmani.com/blog/lazy-loading/"
+    },
+    {
+      "title": "You can now try Microsoft’s Chromium-powered version of Edge",
+      "thumbnail": "5.png",
+      "url": "https://thenextweb.com/microsoft/2019/04/08/you-can-now-try-microsofts-chromium-powered-version-of-edge/"
+    },
+    {
+      "title": "Getting creative with the Console API!",
+      "thumbnail": "6.png",
+      "url": "https://areknawo.com/getting-creative-with-the-console-api/"
+    },
+    {
+      "title": "Web development, illustrated.",
+      "thumbnail": "7.png",
+      "url": "https://illustrated.dev/"
+    },
+    {
+      "title": "Free yourself from Internet Explorer 11 in places where (almost) nobody uses it.",
+      "thumbnail": "8.png",
+      "url": "https://canistop.net/"
+    },
+    {
+      "title": "CSSBattle - Use your CSS skills to replicate targets with smallest possible code.",
+      "thumbnail": "9.png",
+      "url": "https://cssbattle.dev/"
+    },
+    {
+      "title": "A pixel-perfect recreation of Windows XP, written in React",
+      "thumbnail": "10.png",
+      "url": "https://winxp.now.sh/"
+    }
+  ]
+}

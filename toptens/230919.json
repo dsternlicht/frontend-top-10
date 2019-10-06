@@ -1,0 +1,55 @@
+{
+  "title": "23.09.19",
+  "recs": [
+    {
+      "title": "decorators-utils, a neat approach for utility functions in JavaScript",
+      "thumbnail": "1.png",
+      "url": "https://medium.com/@Vlio20/decorators-utils-a-neat-approach-for-utility-functions-in-javascript-2b26efe51e44"
+    },
+    {
+      "title": "Three useful Express middleware",
+      "thumbnail": "2.png",
+      "url": "https://dev.to/zellwk/three-useful-express-middleware-1di"
+    },
+    {
+      "title": "Google fonts announce variable fonts support in a new CSS API",
+      "thumbnail": "3.png",
+      "url": "https://twitter.com/googlefonts/status/1169536769584443392"
+    },
+    {
+      "title": "Two exceptional use cases for the spread operator you may not know of",
+      "thumbnail": "4.png",
+      "url": "https://enmascript.com/articles/2019/09/20/two-exceptional-use-cases-for-the-spread-operator-you-may-not-know-of"
+    },
+    {
+      "title": "Give your pages some headroom. Hide your header until you need it.",
+      "thumbnail": "5.png",
+      "url": "http://wicky.nillia.ms/headroom.js/"
+    },
+    {
+      "title": "Machine Learning For Front-End Developers With Tensorflow.js",
+      "thumbnail": "6.png",
+      "url": "https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/"
+    },
+    {
+      "title": "What is a 1x Engineer?",
+      "thumbnail": "7.png",
+      "url": "https://1x.engineer/"
+    },
+    {
+      "title": "Are you making your website vulnerable by adding target=\"_blank\"?",
+      "thumbnail": "8.png",
+      "url": "https://gosink.in/are-you-making-website-vulnerable-target-blank-or-performance/"
+    },
+    {
+      "title": "Can I Email",
+      "thumbnail": "9.png",
+      "url": "https://www.caniemail.com/"
+    },
+    {
+      "title": "HTML5 and JavaScript Game Development Competition in just 13 kB",
+      "thumbnail": "10.png",
+      "url": "https://js13kgames.com/entries/2019"
+    }
+  ]
+}

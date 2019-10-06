@@ -1,0 +1,55 @@
+{
+  "title": "14.01.19",
+  "recs": [
+    {
+      "title": "Responsive Images Using SVG Instead of Srcset",
+      "thumbnail": "1.png",
+      "url": "https://vecta.io/blog/responsive-images-with-svg-vs-srcset"
+    },
+    {
+      "title": "How To Learn CSS",
+      "thumbnail": "2.png",
+      "url": "https://www.smashingmagazine.com/2019/01/how-to-learn-css/"
+    },
+    {
+      "title": "30 Seconds of CSS",
+      "thumbnail": "3.png",
+      "url": "https://30-seconds.github.io/30-seconds-of-css/"
+    },
+    {
+      "title": "Javascript Context — this keyword",
+      "thumbnail": "4.png",
+      "url": "https://medium.com/@ideepak.jsd/javascript-context-this-keyword-9a78a19d5786"
+    },
+    {
+      "title": "GitHub Free users now get unlimited private repositories",
+      "thumbnail": "5.png",
+      "url": "https://techcrunch.com/2019/01/07/github-free-users-now-get-unlimited-private-repositories/"
+    },
+    {
+      "title": "How to Center in CSS",
+      "thumbnail": "6.png",
+      "url": "http://howtocenterincss.com/"
+    },
+    {
+      "title": "Front-End Performance Checklist 2019",
+      "thumbnail": "7.png",
+      "url": "https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/#download-the-checklist"
+    },
+    {
+      "title": "Chrome DevTools: The five most popular DevTools tips from 2018",
+      "thumbnail": "8.png",
+      "url": "https://umaar.com/dev-tips/190-five-popular-2018-tips/"
+    },
+    {
+      "title": "How Doom Fire Was Done",
+      "thumbnail": "9.png",
+      "url": "http://fabiensanglard.net/doom_fire_psx/"
+    },
+    {
+      "title": "Top Pens of 2018 on CodePen",
+      "thumbnail": "10.png",
+      "url": "https://codepen.io/2018/popular/pens/"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "11.03.19",
+  "recs": [
+    {
+      "title": "7 Trending JavaScript libraries in 2019",
+      "thumbnail": "1.png",
+      "url": "https://redstapler.co/trending-javascript-libraries-2019/"
+    },
+    {
+      "title": "#OpJerusalem FlashInstaller Ransomware",
+      "thumbnail": "2.png",
+      "url": "https://www.cyberark.com/threat-research-blog/opjerusalem-flashinstaller-ransomware/"
+    },
+    {
+      "title": "Chrome 73 - What’s New in DevTools",
+      "thumbnail": "3.png",
+      "url": "https://www.youtube.com/watch?v=uddZX9ZK6wY"
+    },
+    {
+      "title": "Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code.",
+      "thumbnail": "4.png",
+      "url": "https://hackernoon.com/handtrackjs-677c29c1d585"
+    },
+    {
+      "title": "Tech companies logos made with pure CSS",
+      "thumbnail": "5.png",
+      "url": "https://github.com/outbrain/tech-companies-logos-in-css"
+    },
+    {
+      "title": "JavaScript 'loose' comparison step by step",
+      "thumbnail": "6.png",
+      "url": "https://felix-kling.de/js-loose-comparison/"
+    },
+    {
+      "title": "Lesser-known CSS properties in GIFs",
+      "thumbnail": "7.png",
+      "url": "https://medium.com/@PavelLaptev/lesser-known-css-properties-in-gifs-966a143497ba"
+    },
+    {
+      "title": "3D pixelart editor based on sprite stacking technique",
+      "thumbnail": "8.png",
+      "url": "https://spritestack.io/"
+    },
+    {
+      "title": "CodeTalks - The best code talks around the world",
+      "thumbnail": "9.png",
+      "url": "https://codetalks.tv/"
+    },
+    {
+      "title": "ThanosJS - Reduce the file size of your project down to 50%, by randomly deleting half of the files.",
+      "thumbnail": "10.png",
+      "url": "https://thanosjs.org/"
+    }
+  ]
+}

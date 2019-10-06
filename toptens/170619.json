@@ -1,0 +1,55 @@
+{
+  "title": "17.06.19",
+  "recs": [
+    {
+      "title": "Responsive Design Mode in Safari",
+      "thumbnail": "1.png",
+      "url": "https://twitter.com/applesupport/status/1136403635087249408?s=12"
+    },
+    {
+      "title": "npm passes the 1 millionth package milestone! What can we learn?",
+      "thumbnail": "2.png",
+      "url": "https://snyk.io/blog/npm-passes-the-1-millionth-package-milestone-what-can-we-learn/"
+    },
+    {
+      "title": "State of CSS 2019",
+      "thumbnail": "3.png",
+      "url": "https://2019.stateofcss.com/"
+    },
+    {
+      "title": "When should you be using Web Workers?",
+      "thumbnail": "4.png",
+      "url": "https://dassur.ma/things/when-workers/"
+    },
+    {
+      "title": "Pika CDN - A CDN for Modern JavaScript",
+      "thumbnail": "5.png",
+      "url": "https://www.pika.dev/cdn"
+    },
+    {
+      "title": "Hello Subgrid! – Rachel Andrew at CSSconf EU 2019",
+      "thumbnail": "6.png",
+      "url": "https://www.youtube.com/watch?v=vxOj7CaWiPU"
+    },
+    {
+      "title": "List of (Advanced) JavaScript Questions",
+      "thumbnail": "7.png",
+      "url": "https://github.com/lydiahallie/javascript-questions"
+    },
+    {
+      "title": "How to Use the Web Share API",
+      "thumbnail": "8.png",
+      "url": "https://css-tricks.com/how-to-use-the-web-share-api/"
+    },
+    {
+      "title": "Firefox Dev Tools Can Now Show Why a CSS Property is Having No Effect",
+      "thumbnail": "9.png",
+      "url": "https://twitter.com/nicolaschevobbe/status/1135798960361263104"
+    },
+    {
+      "title": "Rebuilding the Solar System with CSS",
+      "thumbnail": "10.png",
+      "url": "https://codepen.io/robdimarzo/post/rebuilding-the-solar-system-with-css"
+    }
+  ]
+}

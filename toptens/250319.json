@@ -1,0 +1,55 @@
+{
+  "title": "25.03.19",
+  "recs": [
+    {
+      "title": "Navigator Share API",
+      "thumbnail": "1.png",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share"
+    },
+    {
+      "title": "CSS Nesting Module",
+      "thumbnail": "3.png",
+      "url": "https://drafts.csswg.org/css-nesting-1/"
+    },
+    {
+      "title": "CSS Grid: Floor Plan",
+      "thumbnail": "4.png",
+      "url": "https://codepen.io/oliviale/pen/moLrBq"
+    },
+    {
+      "title": "Update on Experimental Features in Node.js",
+      "thumbnail": "5.png",
+      "url": "https://nodesource.com/blog/experimental-features-in-node.js"
+    },
+    {
+      "title": "Supporting old browsers without hurting everyone",
+      "thumbnail": "6.png",
+      "url": "https://sgom.es/posts/2019-03-06-supporting-old-browsers-without-hurting-everyone/"
+    },
+    {
+      "title": "Why you shouldn't use Moment.js...",
+      "thumbnail": "7.png",
+      "url": "https://inventi.studio/en/blog/why-you-shouldnt-use-moment-js"
+    },
+    {
+      "title": "Here is Redux in 38 lines of code",
+      "thumbnail": "8.png",
+      "url": "https://repl.it/@dericgw/ReduxRecreated"
+    },
+    {
+      "title": "JavaScript Symbols: But Why?",
+      "thumbnail": "9.png",
+      "url": "https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c"
+    },
+    {
+      "title": "CSS Scroll Snap: How Do I Look In This?",
+      "thumbnail": "10.png",
+      "url": "https://codepen.io/oliviale/full/oVBzao"
+    },
+    {
+      "title": "3D Emoji Town (Pure CSS)",
+      "thumbnail": "2.png",
+      "url": "https://codepen.io/GeorgePark/pen/MqVoYP"
+    }
+  ]
+}

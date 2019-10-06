@@ -1,0 +1,55 @@
+{
+  "title": "31.12.18",
+  "recs": [
+    {
+      "title": "ECMAScript - A Taste from ES2019 (ES10)",
+      "thumbnail": "1.png",
+      "url": "https://nitayneeman.com/posts/a-taste-from-ecmascript-2019/"
+    },
+    {
+      "title": "Writing JavaScript With Only Six Characters",
+      "thumbnail": "2.png",
+      "url": "https://javascript.christmas/2018/14"
+    },
+    {
+      "title": "Find modern packages on npm. Get faster, smaller JavaScript bundles.",
+      "thumbnail": "3.png",
+      "url": "https://www.pikapkg.com/"
+    },
+    {
+      "title": "Things I Don’t Know as of 2018",
+      "thumbnail": "4.png",
+      "url": "https://overreacted.io/things-i-dont-know-as-of-2018/"
+    },
+    {
+      "title": "New CSS Logical Properties!",
+      "thumbnail": "5.png",
+      "url": "https://medium.com/@elad/new-css-logical-properties-bc6945311ce7"
+    },
+    {
+      "title": "An Initial Implementation of clip-path: path();",
+      "thumbnail": "6.png",
+      "url": "https://css-tricks.com/an-initial-implementation-of-clip-path-path/"
+    },
+    {
+      "title": "The Cost of JavaScript in 2018",
+      "thumbnail": "7.png",
+      "url": "https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4"
+    },
+    {
+      "title": "#merryCSSmas - The Missing CSS Selectors",
+      "thumbnail": "8.png",
+      "url": "https://twitter.com/innovati/status/1068998114491678720"
+    },
+    {
+      "title": "Styling a Select Like It’s 2019",
+      "thumbnail": "9.png",
+      "url": "https://www.filamentgroup.com/lab/select-css.html"
+    },
+    {
+      "title": "Magic Sketchpad",
+      "thumbnail": "10.png",
+      "url": "https://magic-sketchpad.glitch.me/"
+    }
+  ]
+}

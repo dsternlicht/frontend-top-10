@@ -1,0 +1,37 @@
+<% layout('./layout') -%>
+
+<a href="/" class="history">&lt; History</a>
+
+<header>
+  <div class="top">
+    <a title="Recommended by Outbrain's Front End Guild" href="https://www.outbrain.com/" target="_blank">
+      <img src="/public/images/logo.png" />
+    </a>
+    <h1>Front End Top 10</h1>
+  </div>
+  <h3><%= title %></h3>
+</header>
+ <main>
+  <div>
+    <% for (var rec of recs) { %>
+      <article>
+        <a href="<%= rec.url %>" target="_blank"></a>
+        <figure style="background-image: url('<%= baseImagePath %>/<%= rec.thumbnail %>')">
+          <div class="glow-wrap">
+            <i class="glow"></i>
+          </div>
+        </figure>
+        <figcaption>
+          <%= rec.title %>
+        </figcaption>
+      </article>
+    <% } %>
+  </div>
+</main>
+<footer>
+  <p>
+    Send us your links to 
+    <a href="mailto:FrontEndGuild@outbrain.com">FrontEndGuild@outbrain.com</a>
+  </p>
+</footer>
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e9b3d140014ec36"></script>

@@ -1,0 +1,55 @@
+{
+  "title": "12.08.19",
+  "recs": [
+    {
+      "title": "Lint CSS for browser support against caniuse database",
+      "thumbnail": "1.png",
+      "url": "https://github.com/anandthakker/doiuse"
+    },
+    {
+      "title": "Naming Things in CSS",
+      "thumbnail": "2.png",
+      "url": "https://medium.com/@elad/naming-things-in-css-a7de9ad31cd9"
+    },
+    {
+      "title": "Old Libraries Might Threaten Your Users",
+      "thumbnail": "3.png",
+      "url": "https://internet-israel.com/פיתוח-אינטרנט/בניית-אתרי-אינטרנט-למפתחים/גרסאות-של-ספריות-מיושנות-עלולות-לסכן-א/"
+    },
+    {
+      "title": "How Does the Development Mode Work?",
+      "thumbnail": "4.png",
+      "url": "https://overreacted.io/how-does-the-development-mode-work/"
+    },
+    {
+      "title": "Native lazy-loading for the web",
+      "thumbnail": "5.png",
+      "url": "https://web.dev/native-lazy-loading"
+    },
+    {
+      "title": "New CSS Features in Firefox 68",
+      "thumbnail": "6.png",
+      "url": "https://hacks.mozilla.org/2019/07/new-css-features-in-firefox-68/"
+    },
+    {
+      "title": "I Used The Web For A Day On A 50 MB Budget",
+      "thumbnail": "7.png",
+      "url": "https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/"
+    },
+    {
+      "title": "The Best VS Code Extensions for Full Stack Developers",
+      "thumbnail": "8.png",
+      "url": "https://www.jonrcorbin.com/the-best-vs-code-extensions-for-full-stack-developers/"
+    },
+    {
+      "title": "CSS Grid: Pac-Man (Kind of)",
+      "thumbnail": "9.png",
+      "url": "https://codepen.io/oliviale/details/MNJwBM"
+    },
+    {
+      "title": "Diablo is available to play in your web browser",
+      "thumbnail": "10.png",
+      "url": "https://www.techspot.com/news/81237-diablo-available-play-free-web-browser.html"
+    }
+  ]
+}

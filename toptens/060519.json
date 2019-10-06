@@ -1,0 +1,55 @@
+{
+  "title": "06.05.19",
+  "recs": [
+    {
+      "title": "Front End Developer Handbook",
+      "thumbnail": "1.png",
+      "url": "https://frontendmasters.com/books/front-end-handbook/2019/"
+    },
+    {
+      "title": "Building the New facebook.com with React, GraphQL and Relay",
+      "thumbnail": "2.png",
+      "url": "https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/"
+    },
+    {
+      "title": "Implementing a Mockup: CSS Layout Step by Step",
+      "thumbnail": "3.png",
+      "url": "https://daveceddia.com/implement-a-design-with-css/"
+    },
+    {
+      "title": "Graze - Modern Content Stack",
+      "thumbnail": "4.png",
+      "url": "https://graze.site"
+    },
+    {
+      "title": "That Time I Tried Browsing the Web Without CSS",
+      "thumbnail": "5.png",
+      "url": "https://css-tricks.com/that-time-i-tried-browsing-the-web-without-css/"
+    },
+    {
+      "title": "Svelte 3: Rethinking reactivity",
+      "thumbnail": "6.png",
+      "url": "https://svelte.dev/blog/svelte-3-rethinking-reactivity"
+    },
+    {
+      "title": "Choosing the right Node.js Framework: Next, Nuxt, Nest?",
+      "thumbnail": "7.png",
+      "url": "https://nodesource.com/blog/next-nuxt-nest"
+    },
+    {
+      "title": "Compile your Node.js application into a single executable file",
+      "thumbnail": "8.png",
+      "url": "https://github.com/nexe/nexe"
+    },
+    {
+      "title": "CSS Transforms Playground",
+      "thumbnail": "9.png",
+      "url": "https://css-transform.moro.es/"
+    },
+    {
+      "title": "The Design Pattern Game",
+      "thumbnail": "10.png",
+      "url": "http://designpatternsgame.com/"
+    }
+  ]
+}

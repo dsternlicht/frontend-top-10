@@ -1,0 +1,55 @@
+{
+  "title": "26.08.19",
+  "recs": [
+    {
+      "title": "Object Fit CSS Property",
+      "thumbnail": "1.png",
+      "url": "https://he.savvy.co.il/blog/וורדפרס/object-fit-css-property/"
+    },
+    {
+      "title": "Why You Should Use ESLint, Prettier and EditorConfig Together",
+      "thumbnail": "2.png",
+      "url": "https://blog.theodo.com/2019/08/why-you-should-use-eslint-prettier-and-editorconfig-together/"
+    },
+    {
+      "title": "Why Naked Promises Are Not Safe For Work - and What to Do Instead",
+      "thumbnail": "3.png",
+      "url": "https://www.freecodecamp.org/news/naked-promises-are-not-safe-for-work/"
+    },
+    {
+      "title": "Optional HTML: Everything You Need to Know",
+      "thumbnail": "4.png",
+      "url": "https://meiert.com/en/blog/optional-html/"
+    },
+    {
+      "title": "Google Chrome 82 will remove FTP support",
+      "thumbnail": "5.png",
+      "url": "https://www.neowin.net/news/google-chrome-82-will-remove-ftp-support-set-to-affect-01-of-users"
+    },
+    {
+      "title": "All the New ES2019 Tips and Tricks",
+      "thumbnail": "6.png",
+      "url": "https://css-tricks.com/all-the-new-es2019-tips-and-tricks/"
+    },
+    {
+      "title": "Custom elements for the immersive web",
+      "thumbnail": "7.png",
+      "url": "https://blog.mozvr.com/custom-elements-for-the-immersive-web/"
+    },
+    {
+      "title": "Variable Font Animation with CSS and Splitting JS",
+      "thumbnail": "8.png",
+      "url": "https://css-irl.info/variable-font-animation-with-css-and-splitting-js/"
+    },
+    {
+      "title": "5 Super CSS Grid Generators for Your Layouts",
+      "thumbnail": "9.png",
+      "url": "https://www.sitepoint.com/css-grid-generators/"
+    },
+    {
+      "title": "Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS",
+      "thumbnail": "10.png",
+      "url": "https://github.com/ian13456/mc.js"
+    }
+  ]
+}

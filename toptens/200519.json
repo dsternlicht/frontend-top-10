@@ -1,0 +1,55 @@
+{
+  "title": "20.05.19",
+  "recs": [
+    {
+      "title": "GitHub Package Registry Your packages, at home with their code",
+      "thumbnail": "2.png",
+      "url": "https://github.com/features/package-registry"
+    },
+    {
+      "title": "What’s new in JavaScript",
+      "thumbnail": "3.png",
+      "url": "https://www.youtube.com/watch?v=c0oy0vQKEZE"
+    },
+    {
+      "title": "Next-Generation 3D Graphics on the Web",
+      "thumbnail": "4.png",
+      "url": "https://www.youtube.com/watch?v=K2JzIUIHIhc"
+    },
+    {
+      "title": "Mailgo - a different mailto",
+      "thumbnail": "5.png",
+      "url": "https://mailgo.js.org/"
+    },
+    {
+      "title": "An absurdly small jQuery alternative for modern browsers",
+      "thumbnail": "8.png",
+      "url": "https://github.com/kenwheeler/cash"
+    },
+    {
+      "title": "Beautifully simple click-to-copy CSS effects",
+      "thumbnail": "9.png",
+      "url": "https://cssfx.dev/"
+    },
+    {
+      "title": "Something you probably didn't know HTML/CSS could do",
+      "thumbnail": "10.png",
+      "url": "https://twitter.com/calebporzio/status/1122924167769264130"
+    },
+    {
+      "title": "CSS Only Chat",
+      "thumbnail": "1.png",
+      "url": "https://github.com/kkuchta/css-only-chat"
+    },
+    {
+      "title": "Making a Video Game in a Browser's Tab Icon!",
+      "thumbnail": "6.png",
+      "url": "https://www.youtube.com/watch?v=kZFhm7aW8A4"
+    },
+    {
+      "title": "534 ways to reload the page with JavaScript",
+      "thumbnail": "7.png",
+      "url": "http://www.phpied.com/files/location-location/location-location.html"
+    }
+  ]
+}

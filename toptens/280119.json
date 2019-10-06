@@ -1,0 +1,55 @@
+{
+  "title": "28.01.19",
+  "recs": [
+    {
+      "title": "RunJS - Write and run JavaScript instantly",
+      "thumbnail": "1.png",
+      "url": "https://projects.lukehaas.me/runjs/"
+    },
+    {
+      "title": "FromJS - An experimental data-flow analysis tool for JavaScript",
+      "thumbnail": "2.gif",
+      "url": "https://github.com/mattzeunert/FromJS"
+    },
+    {
+      "title": "How to Stop Using Browser Dev Tools and Start Using Your Editor’s Debugger",
+      "thumbnail": "3.png",
+      "url": "https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger"
+    },
+    {
+      "title": "CSS Position Sticky - How It Really Works!",
+      "thumbnail": "4.png",
+      "url": "https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46"
+    },
+    {
+      "title": "Everything You Know About Web Design Just Changed",
+      "thumbnail": "5.png",
+      "url": "https://www.youtube.com/watch?v=4O2FSuLkTSc"
+    },
+    {
+      "title": "JavaScript Algorithms",
+      "thumbnail": "6.png",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "title": "PR: Enable hooks!",
+      "thumbnail": "7.png",
+      "url": "https://github.com/facebook/react/pull/14679"
+    },
+    {
+      "title": "What is tree shaking and how does it work?",
+      "thumbnail": "8.png",
+      "url": "https://bitsofco.de/what-is-tree-shaking/"
+    },
+    {
+      "title": "Table Design Patterns On The Web",
+      "thumbnail": "9.png",
+      "url": "https://www.smashingmagazine.com/2019/01/table-design-patterns-web/"
+    },
+    {
+      "title": "Introducing Ionic 4: Ionic for Everyone",
+      "thumbnail": "10.png",
+      "url": "https://blog.ionicframework.com/introducing-ionic-4-ionic-for-everyone/"
+    }
+  ]
+}
