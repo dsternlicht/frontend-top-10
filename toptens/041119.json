@@ -1,0 +1,55 @@
+{
+  "title": "04.11.19",
+  "recs": [
+    {
+      "title": "New features in Chrome Dev Tools Console",
+      "thumbnail": "1.png",
+      "url": "https://twitter.com/addyosmani/status/1188707784310657026"
+    },
+    {
+      "title": "Why Is React Concurrent Mode Exciting?",
+      "thumbnail": "2.png",
+      "url": "https://hswolff.com/blog/why-is-react-concurrent-mode-exciting/"
+    },
+    {
+      "title": "The Power of JSON.Stringify Replacer Parameter",
+      "thumbnail": "3.png",
+      "url": "https://pawelgrzybek.com/til-the-power-of-json-stringify-replacer-parameter/"
+    },
+    {
+      "title": "The Anatomy Of A Click",
+      "thumbnail": "4.png",
+      "url": "https://vimeo.com/362125021"
+    },
+    {
+      "title": "Encapsulation in JavaScript",
+      "thumbnail": "5.png",
+      "url": "https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4"
+    },
+    {
+      "title": "Debugging Memory Leaks in Angular",
+      "thumbnail": "6.png",
+      "url": "https://blog.bitsrc.io/debugging-memory-leaks-in-angular-4bc7b3eab569"
+    },
+    {
+      "title": "The problem with dropdown fields (and what you should use instead)",
+      "thumbnail": "7.png",
+      "url": "https://designsmarts.co/the-problem-with-dropdowns/"
+    },
+    {
+      "title": "A collection of bad practices in HTML, copied from real websites.",
+      "thumbnail": "8.png",
+      "url": "https://www.htmhell.dev/"
+    },
+    {
+      "title": "100% CSS Mario Kart",
+      "thumbnail": "9.png",
+      "url": "https://vimeo.com/364369506"
+    },
+    {
+      "title": "Inspect This Snake",
+      "thumbnail": "10.png",
+      "url": "https://twitter.com/matthewrayfield/status/1189531704647733248"
+    }
+  ]
+}
