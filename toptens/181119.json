@@ -1,0 +1,55 @@
+{
+  "title": "18.11.19",
+  "recs": [
+    {
+      "title": "Microsoft unveils new Edge browser logo",
+      "thumbnail": "1.png",
+      "url": "https://www.theverge.com/2019/11/2/20944341/microsoft-edge-chromium-browser-logo-icon-wave-surf-new"
+    },
+    {
+      "title": "Beyond post-install messages: npm adds support for package funding",
+      "thumbnail": "2.png",
+      "url": "https://blog.opencollective.com/beyond-post-install/"
+    },
+    {
+      "title": "The two-value syntax of the CSS Display property",
+      "thumbnail": "3.png",
+      "url": "https://hacks.mozilla.org/2019/10/the-two-value-syntax-of-the-css-display-property/"
+    },
+    {
+      "title": "Restructure with ease thanks to Typescript path mappings",
+      "thumbnail": "4.png",
+      "url": "https://dev.to/cooperdev/restructure-with-ease-thanks-to-typescript-path-mappings-4b0e"
+    },
+    {
+      "title": "You can create these elements without JavaScript",
+      "thumbnail": "5.png",
+      "url": "https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a"
+    },
+    {
+      "title": "Master the JavaScript Interview: What is Functional Programming?",
+      "thumbnail": "6.png",
+      "url": "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0"
+    },
+    {
+      "title": "Next-generation web styling",
+      "thumbnail": "7.png",
+      "url": "https://www.youtube.com/watch?v=-oyeaIirVC0"
+    },
+    {
+      "title": "Announcing TypeScript 3.7",
+      "thumbnail": "8.png",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-7/"
+    },
+    {
+      "title": "New `text-decoration-*` properties in CSS",
+      "thumbnail": "9.png",
+      "url": "https://twitter.com/css/status/1192929042036645890"
+    },
+    {
+      "title": "Coding Challenge: Dancing with CSS",
+      "thumbnail": "10.png",
+      "url": "https://designups.com/blog/coding-challenge-dancing-with-css/"
+    }
+  ]
+}
