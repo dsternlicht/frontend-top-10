@@ -1,0 +1,55 @@
+{
+  "title": "02.12.19",
+  "recs": [
+    {
+      "title": "Facebook and Microsoft Partnering on Remote Development",
+      "thumbnail": "1.png",
+      "url": "https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development"
+    },
+    {
+      "title": "Understanding client side routing by implementing a router in Vanilla JS",
+      "thumbnail": "9.png",
+      "url": "http://willtaylor.blog/client-side-routing-in-vanilla-js/"
+    },
+    {
+      "title": "CSS in 2019",
+      "thumbnail": "2.png",
+      "url": "https://almanac.httparchive.org/en/2019/css"
+    },
+    {
+      "title": "Step by step guide to becoming a modern frontend developer",
+      "thumbnail": "3.png",
+      "url": "https://roadmap.sh/frontend/latest"
+    },
+    {
+      "title": "Fit on a Floppy",
+      "thumbnail": "4.png",
+      "url": "https://fitonafloppy.website/"
+    },
+    {
+      "title": "JSONCrush - Compress JSON into URL friendly strings",
+      "thumbnail": "5.png",
+      "url": "https://github.com/KilledByAPixel/JSONCrush"
+    },
+    {
+      "title": "Understanding the Difference Between CSS Resolution and Device Resolution",
+      "thumbnail": "6.png",
+      "url": "https://medium.com/@elad/understanding-the-difference-between-css-resolution-and-device-resolution-28acae23da0b"
+    },
+    {
+      "title": "How To Run a Proxy Server Inside Your Browser",
+      "thumbnail": "10.png",
+      "url": "https://medium.com/better-programming/how-to-run-a-proxy-server-inside-your-browser-8b96ea2ef1ea"
+    },
+    {
+      "title": "Single div CSS Tesla Cybertruck",
+      "thumbnail": "7.png",
+      "url": "https://twitter.com/lynnandtonic/status/1197989912970067969"
+    },
+    {
+      "title": "Bruno Simon — Portfolio (case study)",
+      "thumbnail": "8.png",
+      "url": "https://medium.com/@bruno_simon/bruno-simon-portfolio-case-study-960402cc259b"
+    }
+  ]
+}
