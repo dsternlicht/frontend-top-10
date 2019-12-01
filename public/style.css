@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  padding: 80px 40px;
+  padding: 80px 40px 40px;
 }
 
 header .top {
@@ -51,13 +51,35 @@ header h1 {
 	              0 20px 20px rgba(0,0,0,.3);
 }
 
+header hgroup {
+  text-align: center;
+}
+
 header h3 {
   margin: 0;
   color: rgba(0,0,0,0.5);
-  text-align: center;
   font-size: 36px;
   letter-spacing: -0.035em;
   line-height: 1.2em;
+}
+
+header h4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header h4 a {
+  color: blue;
+}
+
+header h4 span {
+  margin: 0 5px;
+}
+
+header h4 img {
+  max-height: 30px;
+  margin: 0;
 }
 
 .wrapper {
