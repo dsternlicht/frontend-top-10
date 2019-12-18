@@ -1,0 +1,55 @@
+{
+  "title": "16.12.19",
+  "recs": [
+    {
+      "title": "Understanding The DOM: How Browsers Show Content On-Screen",
+      "thumbnail": "3.png",
+      "url": "https://unicorn-utterances.com/posts/understanding-the-dom/"
+    },
+    {
+      "title": "Understand Virtual DOM",
+      "thumbnail": "4.png",
+      "url": "https://www.pixelstech.net/article/1575773786-Understand-Virtual-DOM"
+    },
+    {
+      "title": "Why CSS HSL Colors are Better!",
+      "thumbnail": "5.png",
+      "url": "https://medium.com/@elad/why-css-hsl-colors-are-better-83b1e0b6eead"
+    },
+    {
+      "title": "Command-line tool and terminal JSON viewer",
+      "thumbnail": "1.png",
+      "url": "https://github.com/antonmedv/fx"
+    },
+    {
+      "title": "How to remove all node_modules folders in your system",
+      "thumbnail": "6.png",
+      "url": "https://www.petroskyriakou.com/how-to-remove-all-node_modules-folders-in-your-system"
+    },
+    {
+      "title": "JavaScript Visualized: the JavaScript Engine",
+      "thumbnail": "2.png",
+      "url": "https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf"
+    },
+    {
+      "title": "A Recap of Frontend Development in 2019",
+      "thumbnail": "7.png",
+      "url": "https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c"
+    },
+    {
+      "title": "Who can use this color combination?",
+      "thumbnail": "8.png",
+      "url": "https://whocanuse.com/"
+    },
+    {
+      "title": "A collection of popular layouts and patterns made with CSS",
+      "thumbnail": "9.png",
+      "url": "https://csslayout.io/"
+    },
+    {
+      "title": "Browser Default Styles",
+      "thumbnail": "10.png",
+      "url": "https://browserdefaultstyles.com/"
+    }
+  ]
+}
