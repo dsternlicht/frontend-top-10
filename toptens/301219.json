@@ -1,0 +1,55 @@
+{
+  "title": "30.12.19",
+  "recs": [
+    {
+      "title": "Debounce vs Throttle: Definitive Visual Guide",
+      "thumbnail": "1.png",
+      "url": "https://redd.one/blog/debounce-vs-throttle"
+    },
+    {
+      "title": "A History of CSS Through Fifteen Years of 24 ways",
+      "thumbnail": "2.png",
+      "url": "https://24ways.org/2019/a-history-of-css-through-15-years-of-24-ways/"
+    },
+    {
+      "title": "What Is JavaScript Made Of?",
+      "thumbnail": "3.png",
+      "url": "https://overreacted.io/what-is-javascript-made-of/"
+    },
+    {
+      "title": "Understanding positioning in CSS",
+      "thumbnail": "4.png",
+      "url": "https://dev.to/huijing/understanding-positioning-in-css-7mn"
+    },
+    {
+      "title": "Bundling JavaScript for Performance: Best Practices",
+      "thumbnail": "5.png",
+      "url": "https://calendar.perfplanet.com/2019/bundling-javascript-for-performance-best-practices/"
+    },
+    {
+      "title": "5 CSS Predictions For 2020",
+      "thumbnail": "6.png",
+      "url": "https://dev.to/argyleink/5-css-predictions-for-2020-pl3"
+    },
+    {
+      "title": "Tesseract.js 2.0: Pure JavaScript OCR for 100 Languages",
+      "thumbnail": "7.png",
+      "url": "https://tesseract.projectnaptha.com/"
+    },
+    {
+      "title": "State if JavaScript 2019",
+      "thumbnail": "8.png",
+      "url": "https://2019.stateofjs.com/"
+    },
+    {
+      "title": "500+ CSS Icons",
+      "thumbnail": "9.png",
+      "url": "https://css.gg/"
+    },
+    {
+      "title": "Pure CSS circular border patterns",
+      "thumbnail": "10.png",
+      "url": "https://twitter.com/anatudor/status/1210645514934468609"
+    }
+  ]
+}
