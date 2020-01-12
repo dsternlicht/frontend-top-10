@@ -1,0 +1,55 @@
+{
+  "title": "13.01.20",
+  "recs": [
+    {
+      "title": "How to Create Printer-friendly Pages with CSS",
+      "thumbnail": "1.png",
+      "url": "https://www.sitepoint.com/css-printer-friendly-pages/"
+    },
+    {
+      "title": "Things I've Learnt Optimizing Our Build Time",
+      "thumbnail": "2.png",
+      "url": "https://dutzi.party/optimizing-our-build-time/"
+    },
+    {
+      "title": "Why you should use generic types in TypeScript, a simple example",
+      "thumbnail": "3.png",
+      "url": "https://medium.com/@rivoltafilippo/why-you-should-use-generic-types-in-typescript-a-simple-example-4708e69a003b"
+    },
+    {
+      "title": "Understanding filesystem takeover vulnerabilities in npm JavaScript package manager",
+      "thumbnail": "4.png",
+      "url": "https://snyk.io/blog/understanding-filesystem-takeover-vulnerabilities-in-npm-javascript-package-manager/"
+    },
+    {
+      "title": "Microbrowsers are Everywhere",
+      "thumbnail": "5.png",
+      "url": "https://24ways.org/2019/microbrowsers-are-everywhere/"
+    },
+    {
+      "title": "Goodbye, Clean Code",
+      "thumbnail": "6.png",
+      "url": "https://overreacted.io/goodbye-clean-code/"
+    },
+    {
+      "title": "Build web applications with less tooling and 10x faster iteration",
+      "thumbnail": "7.png",
+      "url": "https://www.snowpack.dev/"
+    },
+    {
+      "title": "Front-End Performance Checklist 2020",
+      "thumbnail": "8.png",
+      "url": "https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/"
+    },
+    {
+      "title": "JavaScript Visualized: Prototypal Inheritance",
+      "thumbnail": "9.png",
+      "url": "https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co"
+    },
+    {
+      "title": "Watch YouTube Videos on Your Mac While Coding",
+      "thumbnail": "10.png",
+      "url": "https://twitter.com/jnybgr/status/1216006056150781953"
+    }
+  ]
+}
