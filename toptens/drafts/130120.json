@@ -12,9 +12,9 @@
       "url": "https://dutzi.party/optimizing-our-build-time/"
     },
     {
-      "title": "Why you should use generic types in TypeScript, a simple example",
+      "title": "7 CSS properties you had no idea about",
       "thumbnail": "3.png",
-      "url": "https://medium.com/@rivoltafilippo/why-you-should-use-generic-types-in-typescript-a-simple-example-4708e69a003b"
+      "url": "https://dev.to/tlakomy/7-css-properties-you-had-no-idea-about-4e75"
     },
     {
       "title": "Understanding filesystem takeover vulnerabilities in npm JavaScript package manager",
@@ -32,7 +32,7 @@
       "url": "https://overreacted.io/goodbye-clean-code/"
     },
     {
-      "title": "Build web applications with less tooling and 10x faster iteration",
+      "title": "Snowpack: A 'Run Once' Dependency Builder/Modularizer",
       "thumbnail": "7.png",
       "url": "https://www.snowpack.dev/"
     },
