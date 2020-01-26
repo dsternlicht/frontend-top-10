@@ -1,0 +1,55 @@
+{
+  "title": "27.01.20",
+  "recs": [
+    {
+      "title": "JavaScript Visualized: Generators and Iterators",
+      "thumbnail": "1.png",
+      "url": "https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36"
+    },
+    {
+      "title": "Better, Faster, and Smarter: RESTool 2.0 is Out!",
+      "thumbnail": "2.png",
+      "url": "https://medium.com/@danielsternlicht/better-faster-and-smarter-restool-2-0-is-out-ec86442f5409"
+    },
+    {
+      "title": "A Look at Deno: Could It Supplant Node",
+      "thumbnail": "3.png",
+      "url": "https://www.youtube.com/watch?v=puXyo1jGQys"
+    },
+    {
+      "title": "CSS level-4, rgb() & hsl() Accept a 4th Parameter",
+      "thumbnail": "4.png",
+      "url": "https://twitter.com/argyleink/status/1218305696862588928"
+    },
+    {
+      "title": "The 10 Most Important JavaScript Frameworks of the Past Decade",
+      "thumbnail": "5.png",
+      "url": "https://blog.logrocket.com/10-most-important-javascript-frameworks-past-decade/"
+    },
+    {
+      "title": "How Browsers Resolve Competing CSS Styles",
+      "thumbnail": "6.png",
+      "url": "https://wattenberger.com/blog/css-cascade"
+    },
+    {
+      "title": "Understanding the “Initial”, “Inherit” and “Unset” CSS Keywords",
+      "thumbnail": "7.png",
+      "url": "https://medium.com/@elad/understanding-the-initial-inherit-and-unset-css-keywords-2d70b7121695"
+    },
+    {
+      "title": "npmbomb - Guess Dependencies Count for Popular NPM Packages",
+      "thumbnail": "8.png",
+      "url": "https://npmbomb.tmkn.dev/"
+    },
+    {
+      "title": "TypeOfNaN JavaScript Quizzes",
+      "thumbnail": "9.png",
+      "url": "https://quiz.typeofnan.dev/"
+    },
+    {
+      "title": "Flat UI and a Half",
+      "thumbnail": "10.png",
+      "url": "https://www.yanlinma.com/flat-ui-and-a-half/"
+    }
+  ]
+}
