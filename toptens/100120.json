@@ -1,0 +1,55 @@
+{
+  "title": "10.01.20",
+  "recs": [
+    {
+      "title": "Node library to automate Chromium, Firefox and WebKit with a single API",
+      "thumbnail": "1.png",
+      "url": "https://github.com/microsoft/playwright"
+    },
+    {
+      "title": "Use and Reuse Everything in SVG… Even Animations!",
+      "thumbnail": "2.png",
+      "url": "https://css-tricks.com/use-and-reuse-everything-in-svg-even-animations/"
+    },
+    {
+      "title": "Animating CSS Width and Height Without the Squish Effect",
+      "thumbnail": "3.png",
+      "url": "https://pqina.nl/blog/animating-width-and-height-without-the-squish-effect/"
+    },
+    {
+      "title": "Version 9 of Angular Now Available - Project Ivy has arrived!",
+      "thumbnail": "4.png",
+      "url": "https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3"
+    },
+    {
+      "title": "JavaScript Libraries Are Almost Never Updated Once Installed",
+      "thumbnail": "5.png",
+      "url": "https://blog.cloudflare.com/javascript-libraries-are-almost-never-updated/"
+    },
+    {
+      "title": "Chrome DevTools has a Shadow Editor Built In",
+      "thumbnail": "6.png",
+      "url": "https://twitter.com/addyosmani/status/1222421620230443010"
+    },
+    {
+      "title": "Mirage JS - An API Mocking Library for Frontend Developers",
+      "thumbnail": "7.png",
+      "url": "https://miragejs.com/"
+    },
+    {
+      "title": "React Native is the Future of Mobile at Shopify",
+      "thumbnail": "8.png",
+      "url": "https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify"
+    },
+    {
+      "title": "A Collection of Free Single-purpose Online Tools for Web Developers",
+      "thumbnail": "9.png",
+      "url": "https://tiny-helpers.dev/"
+    },
+    {
+      "title": "One of the Most Beautiful Websites Out There",
+      "thumbnail": "10.png",
+      "url": "https://wearezizo.com/"
+    }
+  ]
+}
