@@ -1,0 +1,55 @@
+{
+  "title": "24.02.20",
+  "recs": [
+    {
+      "title": "Chrome 79+ no longer shows preflight CORS requests",
+      "thumbnail": "1.png",
+      "url": "https://httptoolkit.tech/blog/chrome-79-doesnt-show-cors-preflight/"
+    },
+    {
+      "title": "Understand How 'this' Works in JavaScript",
+      "thumbnail": "2.png",
+      "url": "https://dev.to/liaowow/take-this-quiz-understand-how-this-works-in-javascript-44dj"
+    },
+    {
+      "title": "Same HTML, Different CSS",
+      "thumbnail": "3.png",
+      "url": "https://ishadeed.com/article/same-html-different-css/"
+    },
+    {
+      "title": "Aborting a Fetch Request",
+      "thumbnail": "4.png",
+      "url": "https://meetguns.com/blog/aborting-a-fetch-request/"
+    },
+    {
+      "title": "Resize Observer - Spec",
+      "thumbnail": "5.png",
+      "url": "https://www.w3.org/TR/resize-observer-1/"
+    },
+    {
+      "title": "Introducing the Page Visibility API",
+      "thumbnail": "6.png",
+      "url": "https://levelup.gitconnected.com/introducing-the-page-visibility-api-2fe50ee3dcfa"
+    },
+    {
+      "title": "A Guide to Console Commands",
+      "thumbnail": "7.png",
+      "url": "https://css-tricks.com/a-guide-to-console-commands/"
+    },
+    {
+      "title": "An Extremely Fast JavaScript Bundler and Minifier",
+      "thumbnail": "8.png",
+      "url": "https://github.com/evanw/esbuild/"
+    },
+    {
+      "title": "Panolens.js: A Panorama Viewer Control",
+      "thumbnail": "9.png",
+      "url": "https://pchen66.github.io/Panolens/"
+    },
+    {
+      "title": "Repper - A Unique Way to Create Patterns",
+      "thumbnail": "10.png",
+      "url": "https://twitter.com/adrianholovaty/status/1228023838614728705"
+    }
+  ]
+}
