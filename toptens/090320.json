@@ -1,0 +1,55 @@
+{
+  "title": "09.03.20",
+  "recs": [
+    {
+      "title": "7 Types of Native Errors in JavaScript You Should Know",
+      "thumbnail": "1.png",
+      "url": "https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492"
+    },
+    {
+      "title": "Webpack 5 Module Federation: A game-changer in JavaScript architecture",
+      "thumbnail": "2.png",
+      "url": "https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669"
+    },
+    {
+      "title": "How to create randomly generated backgrounds with the CSS Paint API",
+      "thumbnail": "3.png",
+      "url": "https://blog.logrocket.com/how-to-create-randomly-generated-backgrounds-with-the-css-paint-api/"
+    },
+    {
+      "title": "Essential Docker for Javascript and Front End Developers",
+      "thumbnail": "4.png",
+      "url": "https://nosleepjavascript.com/docker-essentials-for-front-end-developers/"
+    },
+    {
+      "title": "Why Are We Talking About CSS4?",
+      "thumbnail": "5.png",
+      "url": "https://www.smashingmagazine.com/2020/03/css4-pros-cons-discussion/"
+    },
+    {
+      "title": "Stop using isLoading booleans",
+      "thumbnail": "6.png",
+      "url": "https://kentcdodds.com/blog/stop-using-isloading-booleans"
+    },
+    {
+      "title": "RomeJS - An experimental JavaScript toolchain",
+      "thumbnail": "7.png",
+      "url": "https://github.com/facebookexperimental/rome"
+    },
+    {
+      "title": "10 Ways to Hide Elements in CSS",
+      "thumbnail": "8.png",
+      "url": "https://www.sitepoint.com/hide-elements-in-css/"
+    },
+    {
+      "title": "SVG + CSS = ⭐️",
+      "thumbnail": "9.png",
+      "url": "https://andrew.wang-hoyer.com/experiments/svg-animations/"
+    },
+    {
+      "title": "Windows 95 UI Kit",
+      "thumbnail": "10.png",
+      "url": "https://github.com/themesberg/windows-95-ui-kit"
+    }
+  ]
+}
