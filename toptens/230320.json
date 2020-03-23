@@ -1,0 +1,55 @@
+{
+  "title": "23.03.20",
+  "recs": [
+    {
+      "title": "npm is joining GitHub",
+      "thumbnail": "1.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://github.blog/2020-03-16-npm-is-joining-github/"
+    },
+    {
+      "title": "GitHub for mobile is now available",
+      "thumbnail": "2.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://github.blog/2020-03-17-github-for-mobile-is-now-available/"
+    },
+    {
+      "title": "Block Links Are a Pain (and Maybe Just a Bad Idea)",
+      "thumbnail": "3.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://css-tricks.com/block-links-are-a-pain-and-maybe-just-a-bad-idea/"
+    },
+    {
+      "title": "The ultimate guide to iframes",
+      "thumbnail": "4.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://blog.logrocket.com/the-ultimate-guide-to-iframes/"
+    },
+    {
+      "title": "New media queries you need to know",
+      "thumbnail": "5.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://blog.logrocket.com/new-media-queries-you-need-to-know/"
+    },
+    {
+      "title": "Javascript Proxies : Real world use cases",
+      "thumbnail": "6.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://www.arbazsiddiqui.me/javascript-proxies-real-world-use-cases/"
+    },
+    {
+      "title": "A Complete Guide to calc() in CSS",
+      "thumbnail": "7.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://css-tricks.com/a-complete-guide-to-calc-in-css/"
+    },
+    {
+      "title": "Visualizing how viruses spread in a population",
+      "thumbnail": "8.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://reactfordataviz.com/articles/corona-simulation/"
+    },
+    {
+      "title": "Pure CSS Landscape - An Evening in Southwold",
+      "thumbnail": "9.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://codepen.io/ivorjetski/details/xxGYWQG"
+    },
+    {
+      "title": "A Windows 95 style Pokédex built with React",
+      "thumbnail": "10.png",
+      "url": "https://www.listory.com/l/ffdc005f-f775-4829-8ee4-a8bd3c24d5cb?url=https://poke95.now.sh/"
+    }
+  ]
+}
