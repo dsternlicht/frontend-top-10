@@ -1,0 +1,55 @@
+{
+  "title": "06.04.20",
+  "recs": [
+    {
+      "title": "ECMAScript 2020: the final feature set",
+      "thumbnail": "1.png",
+      "url": "https://2ality.com/2019/12/ecmascript-2020.html"
+    },
+    {
+      "title": "Understanding the ECMAScript spec, part 1",
+      "thumbnail": "2.png",
+      "url": "https://v8.dev/blog/understanding-ecmascript-part-1"
+    },
+    {
+      "title": "Reverse Engineering WhatsApp Web’s CSS",
+      "thumbnail": "3.png",
+      "url": "https://blog.animaapp.com/reverse-engineering-whatsapp-webs-css-9239293009f4"
+    },
+    {
+      "title": "GraphQL Mesh - Query Anything, Run Anywhere",
+      "thumbnail": "4.png",
+      "url": "https://twitter.com/UriGoldshtein/status/1242118500795236353"
+    },
+    {
+      "title": "CSS Findings From The New Facebook Design",
+      "thumbnail": "5.png",
+      "url": "https://ishadeed.com/article/new-facebook-css/"
+    },
+    {
+      "title": "5 reasons you should abandon default exports",
+      "thumbnail": "6.png",
+      "url": "https://mintel.me/why-i-abandoned-default-exports/"
+    },
+    {
+      "title": "Sing a song with the JavaScript Speech Synthesis API",
+      "thumbnail": "7.png",
+      "url": "https://www.youtube.com/watch?v=lOJh9vr5pj4"
+    },
+    {
+      "title": "CSS-Only Marquee Effect",
+      "thumbnail": "8.png",
+      "url": "https://tympanus.net/codrops/2020/03/31/css-only-marquee-effect/"
+    },
+    {
+      "title": "CSS Units Cheat Sheet",
+      "thumbnail": "9.png",
+      "url": "https://i.redd.it/00z5qwx3udo41.jpg"
+    },
+    {
+      "title": "Play Snake with checkboxes",
+      "thumbnail": "10.png",
+      "url": "https://lab.hakim.se/fullstack/"
+    }
+  ]
+}
