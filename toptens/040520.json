@@ -1,0 +1,55 @@
+{
+  "title": "04.05.20",
+  "recs": [
+    {
+      "title": "Node.js version 14 available now",
+      "thumbnail": "1.png",
+      "url": "https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e"
+    },
+    {
+      "title": "The Cost of Javascript Frameworks",
+      "thumbnail": "2.png",
+      "url": "https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/"
+    },
+    {
+      "title": "A compiler that converts React-compatible codes to VanillaJS",
+      "thumbnail": "3.png",
+      "url": "https://mohebifar.github.io/vidact/"
+    },
+    {
+      "title": "window.location Cheatsheet",
+      "thumbnail": "4.png",
+      "url": "https://dev.to/samanthaming/window-location-cheatsheet-4edl"
+    },
+    {
+      "title": "Lazy npm - Terminal UI for npm",
+      "thumbnail": "5.png",
+      "url": "https://github.com/jesseduffield/lazynpm"
+    },
+    {
+      "title": "Will it CORS?",
+      "thumbnail": "6.png",
+      "url": "https://httptoolkit.tech/will-it-cors/"
+    },
+    {
+      "title": "min(), max(), and clamp() are CSS magic!",
+      "thumbnail": "7.png",
+      "url": "https://www.youtube.com/watch?v=U9VF-4euyRo"
+    },
+    {
+      "title": "What's your favorite JavaScript single LOC",
+      "thumbnail": "8.png",
+      "url": "https://1loc.dev/"
+    },
+    {
+      "title": "Nerf Gun Radio Button",
+      "thumbnail": "9.png",
+      "url": "https://codepen.io/oliviale/details/RwWaBdN"
+    },
+    {
+      "title": "98.css - A design system for building recreations of old UIs",
+      "thumbnail": "10.png",
+      "url": "https://jdan.github.io/98.css/"
+    }
+  ]
+}
