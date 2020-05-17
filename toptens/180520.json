@@ -1,0 +1,55 @@
+{
+  "title": "18.05.20",
+  "recs": [
+    {
+      "title": "Full Visual Studio Code experience without leaving GitHub",
+      "thumbnail": "1.png",
+      "url": "https://github.com/features/codespaces"
+    },
+    {
+      "title": "Deno 1.0",
+      "thumbnail": "2.png",
+      "url": "https://deno.land/v1"
+    },
+    {
+      "title": "A Complete Guide to CSS Functions",
+      "thumbnail": "3.png",
+      "url": "https://css-tricks.com/complete-guide-to-css-functions/"
+    },
+    {
+      "title": "JavaScript Features To Forget",
+      "thumbnail": "4.png",
+      "url": "https://davidflanagan.com/2020/05/12/javascript-to-forget.html"
+    },
+    {
+      "title": "Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY",
+      "thumbnail": "5.png",
+      "url": "https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/"
+    },
+    {
+      "title": "Recoil - A state management library for React",
+      "thumbnail": "6.png",
+      "url": "https://recoiljs.org/"
+    },
+    {
+      "title": "Highlight Requests's initiators and dependencies in Chrome DevTools",
+      "thumbnail": "7.png",
+      "url": "https://twitter.com/addyosmani/status/1260479896888975362"
+    },
+    {
+      "title": "CodeTour - Visual Studio Code extension",
+      "thumbnail": "8.png",
+      "url": "https://github.com/vsls-contrib/codetour"
+    },
+    {
+      "title": "Color parsing and manipulation lib served in 2kB",
+      "thumbnail": "9.png",
+      "url": "https://color2k.com/"
+    },
+    {
+      "title": "Animal Crossing: Isabelle's Day Off (Pure CSS)",
+      "thumbnail": "10.png",
+      "url": "https://codepen.io/cybercountess/details/gOaoWmX"
+    }
+  ]
+}
