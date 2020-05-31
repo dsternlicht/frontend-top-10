@@ -1,0 +1,55 @@
+{
+  "title": "01.06.20",
+  "recs": [
+    {
+      "title": "Introducing Snowpack 2.0",
+      "thumbnail": "1.png",
+      "url": "https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/"
+    },
+    {
+      "title": "The process: Making Vue 3",
+      "thumbnail": "2.png",
+      "url": "https://increment.com/frontend/making-vue-3/"
+    },
+    {
+      "title": "Building the Best Web Gallery, and Why the Hell It Was so Hard",
+      "thumbnail": "3.png",
+      "url": "https://www.wix.engineering/post/building-the-best-web-gallery-and-why-the-hell-it-was-so-hard"
+    },
+    {
+      "title": "Case study: Analyzing Notion app performance",
+      "thumbnail": "4.png",
+      "url": "https://3perf.com/blog/notion/"
+    },
+    {
+      "title": "More than 50 ways to say RED in CSS",
+      "thumbnail": "5.png",
+      "url": "https://twitter.com/eladsc/status/1265703222876033024"
+    },
+    {
+      "title": "I Watched All 27 React Europe Talks So You Don’t Have To",
+      "thumbnail": "6.png",
+      "url": "https://www.telerik.com/blogs/i-watched-all-27-react-europe-talks-so-you-dont-have-to"
+    },
+    {
+      "title": "htmx - High Power Tools for html",
+      "thumbnail": "7.png",
+      "url": "https://htmx.org/"
+    },
+    {
+      "title": "A Small JavaScript Library to Create and Animate Annotations",
+      "thumbnail": "8.png",
+      "url": "https://roughnotation.com/"
+    },
+    {
+      "title": "Take a 2D Vector Illustration and Animate it with TensorFlow.js",
+      "thumbnail": "9.png",
+      "url": "https://github.com/yemount/pose-animator"
+    },
+    {
+      "title": "The buggiest site on the web.",
+      "thumbnail": "10.png",
+      "url": "https://defaced.dev/web/the-buggiest-site-on-the-web/"
+    }
+  ]
+}
