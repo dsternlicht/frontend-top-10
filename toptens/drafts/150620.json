@@ -1,0 +1,55 @@
+{
+  "title": "15.06.20",
+  "recs": [
+    {
+      "title": "Microsoft’s new Edge browser now rolling out via Windows Update",
+      "thumbnail": "1.png",
+      "url": "https://www.theverge.com/2020/6/3/21279141/microsoft-edge-available-new-download-windows-update-rollout"
+    },
+    {
+      "title": "How to Compare Objects in JavaScript",
+      "thumbnail": "2.png",
+      "url": "https://dmitripavlutin.com/how-to-compare-objects-in-javascript/"
+    },
+    {
+      "title": "A First Look at `aspect-ratio`",
+      "thumbnail": "3.png",
+      "url": "https://css-tricks.com/a-first-look-at-aspect-ratio/"
+    },
+    {
+      "title": "The History of the URL",
+      "thumbnail": "4.png",
+      "url": "https://blog.cloudflare.com/the-history-of-the-url/"
+    },
+    {
+      "title": "Stranger Things, JavaScript Edition",
+      "thumbnail": "5.png",
+      "url": "https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/"
+    },
+    {
+      "title": "CSS :is() and :where() are coming to browsers",
+      "thumbnail": "6.png",
+      "url": "https://twitter.com/webplatformnews/status/1268666073387319297"
+    },
+    {
+      "title": "Service Worker Lifecycle Explained",
+      "thumbnail": "7.png",
+      "url": "https://felixgerschau.com/service-worker-lifecycle-update/"
+    },
+    {
+      "title": "The Mad Magazine Fold-In Effect in CSS",
+      "thumbnail": "8.png",
+      "url": "https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/"
+    },
+    {
+      "title": "A collection of tools for developers who have little to no artistic talent",
+      "thumbnail": "9.png",
+      "url": "https://nodesign.dev/"
+    },
+    {
+      "title": "Yet Another Doom Clone (In 13kb of JavaScript)",
+      "thumbnail": "10.png",
+      "url": "https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html"
+    }
+  ]
+}
