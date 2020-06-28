@@ -1,0 +1,55 @@
+{
+  "title": "29.06.20",
+  "recs": [
+    {
+      "title": "Microsoft's Github is removing coding terms like 'master' and 'slave'",
+      "thumbnail": "1.png",
+      "url": "https://www.cnet.com/news/microsofts-github-is-removing-coding-terms-like-master-and-slave/"
+    },
+    {
+      "title": "Introducing GitHub Super Linter: one linter to rule them all",
+      "thumbnail": "2.png",
+      "url": "https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/"
+    },
+    {
+      "title": "How to file a good browser bug",
+      "thumbnail": "3.png",
+      "url": "https://web.dev/how-to-file-a-good-bug/"
+    },
+    {
+      "title": "Tips for End to End Testing with Puppeteer",
+      "thumbnail": "4.png",
+      "url": "https://goodguydaniel.com/blog/tips-end-to-end-testing-puppeteer/"
+    },
+    {
+      "title": "Learn Z-Index Using a Visualization Tool",
+      "thumbnail": "5.png",
+      "url": "https://thirumanikandan.com/posts/learn-z-index-using-a-visualization-tool"
+    },
+    {
+      "title": "Making Good Component Design Decisions in React",
+      "thumbnail": "6.png",
+      "url": "https://medium.com/@ablamunits/making-good-component-design-decisions-in-react-2f4972e55d5"
+    },
+    {
+      "title": "An Overview of Scroll Technologies",
+      "thumbnail": "7.png",
+      "url": "https://css-tricks.com/an-overview-of-scroll-technologies/"
+    },
+    {
+      "title": "keen-slider - Agnostic Touch Slider With Native Touch/Swipe Behavior",
+      "thumbnail": "8.png",
+      "url": "https://keen-slider.io/"
+    },
+    {
+      "title": "Checkboxes waves",
+      "thumbnail": "9.png",
+      "url": "https://codepen.io/Mamboleoo/details/WNrwpRq"
+    },
+    {
+      "title": "Getting an iPad Pro with HTML, CSS, and JS",
+      "thumbnail": "10.png",
+      "url": "https://codepen.io/Adir-SL/details/YzwWWvG"
+    }
+  ]
+}
