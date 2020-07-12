@@ -1,0 +1,55 @@
+{
+  "title": "13.07.20",
+  "recs": [
+    {
+      "title": "New in Chrome: CSS Overview",
+      "thumbnail": "1.png",
+      "url": "https://css-tricks.com/new-in-chrome-css-overview/"
+    },
+    {
+      "title": "5 Tips for Adding Design System to Existing Products",
+      "thumbnail": "2.png",
+      "url": "https://medium.com/outbrain-engineering/5-tips-for-adding-design-system-to-existing-products-c401f65ad689"
+    },
+    {
+      "title": "Understanding Template Literals in JavaScript",
+      "thumbnail": "3.png",
+      "url": "https://www.taniarascia.com/understanding-template-literals/"
+    },
+    {
+      "title": "Differences Between Static Generated Sites And Server-Side Rendered Apps",
+      "thumbnail": "4.png",
+      "url": "https://www.smashingmagazine.com/2020/07/differences-static-generated-sites-server-side-rendered-apps/"
+    },
+    {
+      "title": "10 modern layouts in 1 line of CSS",
+      "thumbnail": "5.png",
+      "url": "https://www.youtube.com/watch?v=qm0IfG1GyZU"
+    },
+    {
+      "title": "Four Ways to Fetch Data in React",
+      "thumbnail": "6.png",
+      "url": "https://www.bitnative.com/2020/07/06/four-ways-to-fetch-data-in-react/"
+    },
+    {
+      "title": "The algorithm behind Ctrl + F.",
+      "thumbnail": "7.png",
+      "url": "https://dev.to/akhilpokle/the-algorithm-behind-ctrl-f-3hgh"
+    },
+    {
+      "title": "Use the Border-Radius to Define Horizontal and Vertical Radius",
+      "thumbnail": "8.png",
+      "url": "https://egghead.io/lessons/css-use-the-border-radius-css-property-to-define-horizontal-and-vertical-radius"
+    },
+    {
+      "title": "CSS collector’s cabinet",
+      "thumbnail": "9.png",
+      "url": "https://codepen.io/lynnandtonic/details/LYGjqOo"
+    },
+    {
+      "title": "Dark Ages of the Web",
+      "thumbnail": "10.png",
+      "url": "https://pavellaptev.github.io/web-dark-ages/"
+    }
+  ]
+}
