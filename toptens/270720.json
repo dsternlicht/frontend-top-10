@@ -1,0 +1,55 @@
+{
+  "title": "27.07.20",
+  "recs": [
+    {
+      "title": "MDN Web Docs: 15 years young",
+      "thumbnail": "1.png",
+      "url": "https://hacks.mozilla.org/2020/07/mdn-web-docs-15-years-young/"
+    },
+    {
+      "title": "New in Chrome 84: App Shortcuts, Web Animations, Wake Lock, and lots more!",
+      "thumbnail": "2.png",
+      "url": "https://www.youtube.com/watch?v=1XBUeaqjTA4"
+    },
+    {
+      "title": "It's time to lazy-load offscreen iframes!",
+      "thumbnail": "3.png",
+      "url": "https://web.dev/iframe-lazy-loading/"
+    },
+    {
+      "title": "How To Create A GitHub Profile README",
+      "thumbnail": "4.png",
+      "url": "https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme"
+    },
+    {
+      "title": "What the fork is memoization?",
+      "thumbnail": "5.png",
+      "url": "https://whatthefuck.is/memoization"
+    },
+    {
+      "title": "CS Visualized: CORS",
+      "thumbnail": "6.png",
+      "url": "https://dev.to/lydiahallie/cs-visualized-cors-5b8h"
+    },
+    {
+      "title": "JavaScript: Latest Stage-4 features",
+      "thumbnail": "7.png",
+      "url": "https://dev.to/hemanth/stage-4-features-5a26"
+    },
+    {
+      "title": "OpenBase: Choose the right package every time",
+      "thumbnail": "8.png",
+      "url": "https://openbase.io/"
+    },
+    {
+      "title": "Angular Tetris",
+      "thumbnail": "9.png",
+      "url": "https://github.com/trungk18/angular-tetris"
+    },
+    {
+      "title": "Describe a layout",
+      "thumbnail": "10.png",
+      "url": "https://twitter.com/sharifshameem/status/1282676454690451457"
+    }
+  ]
+}
