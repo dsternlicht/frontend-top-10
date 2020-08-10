@@ -1,0 +1,55 @@
+{
+  "title": "10.08.20",
+  "recs": [
+    {
+      "title": "Introducing Rome",
+      "thumbnail": "1.png",
+      "url": "https://romefrontend.dev/blog/2020/08/08/introducing-rome.html"
+    },
+    {
+      "title": "FAST - Adaptive UI System, Utilities, & Tools",
+      "thumbnail": "2.png",
+      "url": "https://github.com/microsoft/fast"
+    },
+    {
+      "title": "What does 100% mean in CSS?",
+      "thumbnail": "3.png",
+      "url": "https://wattenberger.com/blog/css-percents"
+    },
+    {
+      "title": "content-visibility: the new CSS property that boosts your rendering performance",
+      "thumbnail": "4.png",
+      "url": "https://web.dev/content-visibility/"
+    },
+    {
+      "title": "What Will Be the Best JavaScript Framework in 2021?",
+      "thumbnail": "5.png",
+      "url": "https://medium.com/better-programming/what-will-be-the-best-javascript-framework-in-2021-da4582268419"
+    },
+    {
+      "title": "Sonorous - a JavaScript audio library built for the modern browser",
+      "thumbnail": "6.png",
+      "url": "https://github.com/EkoLabs/sonorous"
+    },
+    {
+      "title": "Style element that contains a focused element with :focus-within",
+      "thumbnail": "7.png",
+      "url": "https://twitter.com/Vlio20/status/1290584659320078336"
+    },
+    {
+      "title": "Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, Snappable",
+      "thumbnail": "8.png",
+      "url": "https://daybrush.com/moveable/"
+    },
+    {
+      "title": "CSS isn’t easy",
+      "thumbnail": "9.png",
+      "url": "https://twitter.com/b0rk/status/1291744996404727808"
+    },
+    {
+      "title": "1Keys – How I Made a Piano in only 1kb of JavaScript",
+      "thumbnail": "10.png",
+      "url": "https://frankforce.com/?p=7617#pianostory"
+    }
+  ]
+}
