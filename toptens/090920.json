@@ -1,0 +1,55 @@
+{
+  "title": "09.09.20",
+  "recs": [
+    {
+      "title": "Microsoft pulls plug on Internet Explorer after 25 years",
+      "thumbnail": "1.png",
+      "url": "https://www.techradar.com/news/microsoft-is-finally-killing-off-internet-explorer"
+    },
+    {
+      "title": "tslint-to-eslint-config",
+      "thumbnail": "2.png",
+      "url": "https://github.com/typescript-eslint/tslint-to-eslint-config"
+    },
+    {
+      "title": "Ground Rules for Web Animations",
+      "thumbnail": "3.png",
+      "url": "https://css-tricks.com/ground-rules-for-web-animations/"
+    },
+    {
+      "title": "Synchronous vs. Asynchronous vs. Parallel Programming",
+      "thumbnail": "4.png",
+      "url": "https://blog.usejournal.com/synchronous-vs-asynchronous-vs-parallel-programming-1f51ae0a5146"
+    },
+    {
+      "title": "Chrome extension that records your browser interactions and generates a Puppeteer script",
+      "thumbnail": "5.png",
+      "url": "https://twitter.com/mgechev/status/1295608917016424449"
+    },
+    {
+      "title": "Vuln Cost: security scanner for VS Code",
+      "thumbnail": "6.png",
+      "url": "https://snyk.io/security-scanner-vuln-cost/"
+    },
+    {
+      "title": "Tools for Formatting, Minifying, and Converting Code",
+      "thumbnail": "7.png",
+      "url": "https://www.345tool.com/"
+    },
+    {
+      "title": "VS Code Debug Visualizer",
+      "thumbnail": "8.png",
+      "url": "https://github.com/hediet/vscode-debug-visualizer"
+    },
+    {
+      "title": "A tiny javascript library to help printing from the web",
+      "thumbnail": "9.png",
+      "url": "https://printjs.crabbly.com/"
+    },
+    {
+      "title": "Learn to Type in Hebrew (for Kids)",
+      "thumbnail": "10.png",
+      "url": "https://ronreiter.github.io/learntotype/index.html"
+    }
+  ]
+}
