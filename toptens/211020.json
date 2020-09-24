@@ -1,0 +1,55 @@
+{
+  "title": "21.10.20",
+  "recs": [
+    {
+      "title": "GitHub to replace master with main starting in October",
+      "thumbnail": "1.png",
+      "url": "https://www.techrepublic.com/article/github-to-replace-master-with-main-starting-in-october-what-developers-need-to-know/"
+    },
+    {
+      "title": "MomentJS Become a Legacy Project",
+      "thumbnail": "2.png",
+      "url": "https://momentjs.com/docs/#/-project-status/"
+    },
+    {
+      "title": "Introducing the New JSX Transform",
+      "thumbnail": "3.png",
+      "url": "https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html"
+    },
+    {
+      "title": "How CSS Perspective Works",
+      "thumbnail": "4.png",
+      "url": "https://css-tricks.com/how-css-perspective-works/"
+    },
+    {
+      "title": "A Real-Time Website Privacy Inspector",
+      "thumbnail": "5.png",
+      "url": "https://themarkup.org/blacklight/"
+    },
+    {
+      "title": "Finding The Root Cause of a CSS Bug",
+      "thumbnail": "6.png",
+      "url": "https://ishadeed.com/article/finding-the-root-cause/"
+    },
+    {
+      "title": "Tip: Escaping Characters in CSS",
+      "thumbnail": "7.png",
+      "url": "https://twitter.com/adamwathan/status/871724488156737538"
+    },
+    {
+      "title": "ComicA11y: An All Inclusive Online Comic Experiment",
+      "thumbnail": "8.png",
+      "url": "https://comica11y.humaan.com/"
+    },
+    {
+      "title": "Frontend Developer Treasure Hunt",
+      "thumbnail": "9.png",
+      "url": "https://fedhunt.xyz/1/index.html"
+    },
+    {
+      "title": "Winamp Skin Museum",
+      "thumbnail": "10.png",
+      "url": "https://skins.webamp.org/"
+    }
+  ]
+}
