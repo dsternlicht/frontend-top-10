@@ -1,0 +1,55 @@
+{
+  "title": "07.10.20",
+  "recs": [
+    {
+      "title": "Bringing the browser developer tools to Visual Studio Code",
+      "thumbnail": "1.png",
+      "url": "https://blogs.windows.com/msedgedev/2020/10/01/microsoft-edge-tools-vscode/"
+    },
+    {
+      "title": "Webpack 5 release",
+      "thumbnail": "2.png",
+      "url": "https://webpack.js.org/blog/2020-10-10-webpack-5-release/"
+    },
+    {
+      "title": "File System Access API is now available in stable",
+      "thumbnail": "3.png",
+      "url": "https://developers.google.com/web/updates/2020/10/nic86"
+    },
+    {
+      "title": "How JS Engine Works (Hebrew)",
+      "thumbnail": "4.png",
+      "url": "https://webdevisrael.io/posts/how-js-works-part-1-engine"
+    },
+    {
+      "title": "RSLint - A JavaScript linter written in Rust",
+      "thumbnail": "5.png",
+      "url": "https://github.com/RDambrosio016/RSLint"
+    },
+    {
+      "title": "Writing JavaScript tools in other languages – a new trend?",
+      "thumbnail": "6.png",
+      "url": "https://2ality.com/2020/10/js-plus-other-languages.html"
+    },
+    {
+      "title": "Understanding TypeScript Generics",
+      "thumbnail": "7.png",
+      "url": "https://www.smashingmagazine.com/2020/10/understanding-typescript-generics/"
+    },
+    {
+      "title": "RxJS-fruits",
+      "thumbnail": "8.png",
+      "url": "https://www.rxjs-fruits.com/"
+    },
+    {
+      "title": "ScrollTrigger Demos",
+      "thumbnail": "9.png",
+      "url": "https://greensock.com/st-demos/"
+    },
+    {
+      "title": "Creating Mirrors in React-Three-Fiber and Three.js",
+      "thumbnail": "10.png",
+      "url": "https://tympanus.net/codrops/2020/09/30/creating-mirrors-in-react-three-fiber-and-three-js/"
+    }
+  ]
+}
