@@ -1,0 +1,55 @@
+{
+  "title": "21.10.20",
+  "recs": [
+    {
+      "title": "Node.js v15.0.0 is here!",
+      "thumbnail": "1.png",
+      "url": "https://nodejs.medium.com/node-js-v15-0-0-is-here-deb00750f278"
+    },
+    {
+      "title": "Toggle multiple values with one custom property",
+      "thumbnail": "2.png",
+      "url": "https://lea.verou.me/2020/10/the-var-space-hack-to-toggle-multiple-values-with-one-custom-property/"
+    },
+    {
+      "title": "Module Federation Examples",
+      "thumbnail": "3.png",
+      "url": "https://github.com/module-federation/module-federation-examples"
+    },
+    {
+      "title": "How to Build Your Own Codepen App",
+      "thumbnail": "4.png",
+      "url": "https://medium.com/swlh/how-to-build-your-own-codepen-app-a8a7140d52d7"
+    },
+    {
+      "title": "HTTP status codes as emoji",
+      "thumbnail": "5.png",
+      "url": "https://www.reddit.com/r/Frontend/comments/jhnhvo/http_status_codes_as_emoji/"
+    },
+    {
+      "title": "Charts.css - CSS data visualization framework",
+      "thumbnail": "6.png",
+      "url": "https://chartscss.org/"
+    },
+    {
+      "title": "How to Create a Realistic Motion Blur with CSS Transitions",
+      "thumbnail": "7.png",
+      "url": "https://css-tricks.com/how-to-create-a-realistic-motion-blur-with-css-transitions/"
+    },
+    {
+      "title": "Hands-free development",
+      "thumbnail": "8.png",
+      "url": "https://twitter.com/joshwcomeau/status/1316809020301246466"
+    },
+    {
+      "title": "100 Members of <hr/>",
+      "thumbnail": "9.png",
+      "url": "https://codepen.io/jh3y/pen/GRqgYWZ"
+    },
+    {
+      "title": "daily.dev - News for Busy Developers",
+      "thumbnail": "10.png",
+      "url": "https://daily.dev/"
+    }
+  ]
+}
