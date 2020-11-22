@@ -1,0 +1,55 @@
+{
+  "title": "18.11.20",
+  "recs": [
+    {
+      "title": "What's New in Angular 11?",
+      "thumbnail": "1.png",
+      "url": "https://medium.com/better-programming/whats-new-in-angular-11-3f7309acc02d"
+    },
+    {
+      "title": "Announcing TypeScript 4.1",
+      "thumbnail": "2.png",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/"
+    },
+    {
+      "title": "A Complete Guide to CSS Gradients",
+      "thumbnail": "3.png",
+      "url": "https://css-tricks.com/a-complete-guide-to-css-gradients/"
+    },
+    {
+      "title": "Meet Face ID and Touch ID for the Web",
+      "thumbnail": "4.png",
+      "url": "https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web/"
+    },
+    {
+      "title": "The most accurate way to schedule a function in a web browser",
+      "thumbnail": "5.png",
+      "url": "https://medium.com/teads-engineering/the-most-accurate-way-to-schedule-a-function-in-a-web-browser-eadcd164da12"
+    },
+    {
+      "title": "Reversim Summit 2020: All Videos",
+      "thumbnail": "6.png",
+      "url": "https://www.youtube.com/playlist?list=PLqXy0aX6TzQqdhzY9jqew2sb33hhDXAHf"
+    },
+    {
+      "title": "The Cleanest Trick for Autogrowing Textareas",
+      "thumbnail": "7.png",
+      "url": "https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/"
+    },
+    {
+      "title": "Operator Lookup",
+      "thumbnail": "8.png",
+      "url": "https://joshwcomeau.com/operator-lookup/"
+    },
+    {
+      "title": "Coding Fonts",
+      "thumbnail": "9.png",
+      "url": "https://coding-fonts.css-tricks.com/fonts/anonymous-pro/"
+    },
+    {
+      "title": "The Bluesman - You Can Play The Blues (Web Audio API)",
+      "thumbnail": "10.png",
+      "url": "https://codepen.io/gregh/pen/zNzvOm"
+    }
+  ]
+}
