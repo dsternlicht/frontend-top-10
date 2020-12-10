@@ -1,0 +1,55 @@
+{
+  "title": "02.12.20",
+  "recs": [
+    {
+      "title": "State Of CSS results are published",
+      "thumbnail": "1.png",
+      "url": "https://2020.stateofcss.com/en-US/technologies/"
+    },
+    {
+      "title": "Native CSS Masonry layout",
+      "thumbnail": "2.png",
+      "url": "https://www.facebook.com/129712729600/posts/10158056242244601/"
+    },
+    {
+      "title": "How JS Works - The 'this' Keyword",
+      "thumbnail": "3.png",
+      "url": "https://webdevisrael.io/posts/how-js-works-this-keyword"
+    },
+    {
+      "title": "GitHub has a new homepage, and it's gorgeous",
+      "thumbnail": "4.png",
+      "url": "https://github.com/home"
+    },
+    {
+      "title": "25 free courses to celebrate 25 years of JavaScript",
+      "thumbnail": "5.png",
+      "url": "https://www.javascript.com/"
+    },
+    {
+      "title": "Time to Say Goodbye to Google Fonts",
+      "thumbnail": "6.png",
+      "url": "https://wicki.io/posts/2020-11-goodbye-google-fonts/"
+    },
+    {
+      "title": "CSS Tips you won't see in most tutorials",
+      "thumbnail": "7.png",
+      "url": "https://denic.hashnode.dev/css-tips-you-wont-see-in-most-tutorials"
+    },
+    {
+      "title": "Use a Submit Button Outside of a Form!",
+      "thumbnail": "8.png",
+      "url": "https://davidwalsh.name/submit-button-outside-form"
+    },
+    {
+      "title": "JSONEditor: A Component for Viewing and Editing JSON",
+      "thumbnail": "9.png",
+      "url": "https://github.com/josdejong/jsoneditor"
+    },
+    {
+      "title": "Pure CSS Monument Valley II",
+      "thumbnail": "10.png",
+      "url": "https://codepen.io/miocene/pen/NWRWQpX"
+    }
+  ]
+}
